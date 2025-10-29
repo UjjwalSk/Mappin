@@ -11,7 +11,7 @@
 </div>
 
 ---
-## 🖼️ Preview
+### 🖼️ Preview
 
 <table>
   <tr>
@@ -34,7 +34,7 @@
 
 ---
 
-## ✨ Features
+### ✨ Features
 
 ### **AI-Powered Generation**
 - Generate diagrams from natural language descriptions
@@ -58,7 +58,9 @@
 - **Theme Support**: Beautiful dark and light themes
 - Collapsible side panels for maximum workspace
 
-## 🚀 Getting Started
+---
+
+### 🚀 Getting Started
 
 ### Prerequisites
 
@@ -95,7 +97,7 @@
 
 ---
 
-## 🏗️ Tech Stack
+### 🏗️ Tech Stack
 
 ### Frontend
 - **React 18** - Modern UI library
@@ -121,7 +123,7 @@
 
 ---
 
-## 📦 Project Structure
+### 📦 Project Structure
 
 ```
 mappin/
@@ -142,7 +144,7 @@ mappin/
 ```
 
 ---
-## 🤝 Contributing
+### 🤝 Contributing
 Contributions, issues, and feature requests are welcome!  
 
 ---
